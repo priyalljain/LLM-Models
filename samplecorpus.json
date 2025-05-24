@@ -1,0 +1,77 @@
+[
+    {
+      "label": "greeting",
+      "descriptions": [
+        "A person waving hello",
+        "Someone smiling and greeting",
+        "A friendly greeting gesture"
+      ],
+      "speech": [
+        "hello there",
+        "hi how are you",
+        "good morning",
+        "hey nice to meet you"
+      ],
+      "image": "images/greeting.jpg"
+    },
+    {
+      "label": "question",
+      "descriptions": [
+        "A person with a confused expression",
+        "Someone looking inquisitive",
+        "A person with raised eyebrows asking something"
+      ],
+      "speech": [
+        "what is this",
+        "can you tell me about that",
+        "how does this work",
+        "where can I find more information"
+      ],
+      "image": "images/question.jpg"
+    },
+    {
+      "label": "help_request",
+      "descriptions": [
+        "A person reaching out for assistance",
+        "Someone looking distressed or in need",
+        "A person making a help gesture"
+      ],
+      "speech": [
+        "I need help with this",
+        "can you assist me please",
+        "I'm having trouble with this",
+        "could you help me understand this"
+      ],
+      "image": "images/help.jpg"
+    },
+    {
+      "label": "technical_query",
+      "descriptions": [
+        "A person looking at computer code",
+        "Someone examining technical diagrams",
+        "A person working with electronic devices"
+      ],
+      "speech": [
+        "how do I implement this algorithm",
+        "what's the best way to structure this code",
+        "can you explain this technical concept",
+        "I'm getting an error in my program"
+      ],
+      "image": "images/technical.jpg"
+    },
+    {
+      "label": "compliment",
+      "descriptions": [
+        "A person giving a thumbs up",
+        "Someone smiling and nodding approvingly",
+        "A person looking pleased with something"
+      ],
+      "speech": [
+        "great job on this",
+        "this looks amazing",
+        "I really like what you've done here",
+        "this is excellent work"
+      ],
+      "image": "images/compliment.jpg"
+    }
+  ]

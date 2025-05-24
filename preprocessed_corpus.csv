@@ -1,0 +1,35 @@
+text,label,image_path,text_length
+person waving hello,greeting,images/greeting.jpg,19
+someone smiling greeting,greeting,images/greeting.jpg,24
+friendly greeting gesture,greeting,images/greeting.jpg,25
+person confused expression,greeting,images/greeting.jpg,26
+someone looking inquisitive,greeting,images/greeting.jpg,27
+person raised eyebrow asking something,greeting,images/greeting.jpg,38
+person reaching assistance,greeting,images/greeting.jpg,26
+someone looking distressed need,question,images/question.jpg,31
+person making help gesture,question,images/question.jpg,26
+person looking computer code,question,images/question.jpg,28
+someone examining technical diagram,question,images/question.jpg,35
+person working electronic device,question,images/question.jpg,32
+person giving thumb,question,images/question.jpg,19
+someone smiling nodding approvingly,help_request,images/help.jpg,35
+person looking pleased something,help_request,images/help.jpg,32
+hello,help_request,images/help.jpg,5
+hi,help_request,images/help.jpg,2
+good morning,help_request,images/help.jpg,12
+hey nice meet,help_request,images/help.jpg,13
+tell,help_request,images/help.jpg,4
+work,technical_query,images/technical.jpg,4
+find information,technical_query,images/technical.jpg,16
+need help,technical_query,images/technical.jpg,9
+assist please,technical_query,images/technical.jpg,13
+im trouble,technical_query,images/technical.jpg,10
+could help understand,technical_query,images/technical.jpg,21
+implement algorithm,technical_query,images/technical.jpg,19
+whats best way structure code,compliment,images/compliment.jpg,29
+explain technical concept,compliment,images/compliment.jpg,25
+im getting error program,compliment,images/compliment.jpg,24
+great job,compliment,images/compliment.jpg,9
+look amazing,compliment,images/compliment.jpg,12
+really like youve done,compliment,images/compliment.jpg,22
+excellent work,compliment,images/compliment.jpg,14
